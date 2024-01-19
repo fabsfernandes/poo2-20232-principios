@@ -1,5 +1,4 @@
 
-package singleresponsibility.incorrect;
 
 /**
  *
