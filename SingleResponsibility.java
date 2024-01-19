@@ -1,6 +1,3 @@
-package singleresponsibility;
-
-
 
 public class SingleResponsibility {
     
